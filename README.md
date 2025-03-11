@@ -3,7 +3,9 @@
 - 👀 Passionate about coding, web development & building creative projects.  
 - 🌱 Always learning something interesting.  
 - 💞️ Open to collaborations where I can contribute & grow.  
-- 📫 Reach me at [shdeveloper2004@gmail.com](mailto:shdeveloper2004@gmail.com) or on Instagram [@iam_shanker_06](https://www.instagram.com/iam_shanker_06).  
+- 📫 Reach me at [shdeveloper2004@gmail.com](mailto:shdeveloper2004@gmail.com) or on:  
+  - Instagram: [@_sakura_sayonara_](https://www.instagram.com/_sakura_sayonara_/)  
+  - X: [@shdeveloper2004](https://x.com/shdeveloper2004)  
 
 Thanks for visiting my profile! 👨‍💻✨  
 

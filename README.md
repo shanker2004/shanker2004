@@ -1,10 +1,12 @@
 # 👋 Hi, I’m Shanker!  
 
-- 👀 Passionate about coding, web development & building creative projects.  
-- 🌱 Always learning something interesting.  
-- 💞️ Open to collaborations where I can contribute & grow.  
+- 👀 Passionate full-stack developer focused on **creative, human-centered projects**.  
+- 🌱 Constantly learning and experimenting...
+- 💻 Building apps that combine **functionality, privacy, and mood-driven design**.  
+- 🎨 Strong sense of **aesthetics, design thinking, and UI/UX** for minimalistic and immersive experiences.  
+- 💞️ Open to **collaborations** where I can contribute and grow.  
 - 📫 Reach me at [shdeveloper2004@gmail.com](mailto:shdeveloper2004@gmail.com) or on:  
-  - Instagram: [@_bi_sakura_](https://www.instagram.com/_bi_sakura_/)  
+  - Instagram: [@simply_an_introvert](https://www.instagram.com/simply_an_introvert/)  
   - X: [@shdeveloper2004](https://x.com/shdeveloper2004)  
 
 Thanks for visiting my profile! 👨‍💻✨  

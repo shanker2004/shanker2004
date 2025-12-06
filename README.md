@@ -6,8 +6,8 @@
 - 🎨 Strong sense of **aesthetics, design thinking, and UI/UX** for minimalistic and immersive experiences.  
 - 💞️ Open to **collaborations** where I can contribute and grow.  
 - 📫 Reach me at [shdeveloper2004@gmail.com](mailto:shdeveloper2004@gmail.com) or on:  
-  - Instagram: [@simply_an_introvert](https://www.instagram.com/simply_an_introvert/)  
-  - X: [@shdeveloper2004](https://x.com/shdeveloper2004)  
+  - Instagram: [@crafted_by_sh_](https://www.instagram.com/crafted_by_sh_/)  
+  - X: [@shdeveloper2004](https://x.com/crafted_by_sh_)  
 
 Thanks for visiting my profile! 👨‍💻✨  
 
